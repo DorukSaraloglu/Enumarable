@@ -1,0 +1,7 @@
+C:\Users\itopya\Desktop\Enumarable\Enumarable\bin\Debug\Enumarable.exe.config
+C:\Users\itopya\Desktop\Enumarable\Enumarable\bin\Debug\Enumarable.exe
+C:\Users\itopya\Desktop\Enumarable\Enumarable\bin\Debug\Enumarable.pdb
+C:\Users\itopya\Desktop\Enumarable\Enumarable\obj\Debug\Enumarable.csprojAssemblyReference.cache
+C:\Users\itopya\Desktop\Enumarable\Enumarable\obj\Debug\Enumarable.csproj.CoreCompileInputs.cache
+C:\Users\itopya\Desktop\Enumarable\Enumarable\obj\Debug\Enumarable.exe
+C:\Users\itopya\Desktop\Enumarable\Enumarable\obj\Debug\Enumarable.pdb
